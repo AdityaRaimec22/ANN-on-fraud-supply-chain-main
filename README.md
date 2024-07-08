@@ -13,5 +13,30 @@ In this study, we aimed to detect fraudulent activities in the supply chain thro
 - Plotly
 
 ## Introduction 
-In recent years, the use of neural networks in supply chain analytics has gained considerable traction as organisations look for ways to improve their operations and make more informed decisions. One area where neural networks can have a significant impact is in the detection of fraud before shipments are processed. Fraudulent activities can cause significant financial losses, and early detection is essential for minimising any damage.
-We present our study on the use of neural networks for detecting fraud in the supply chain. Two models were developed as part of this study: one using the MLPClassifier algorithm from the scikit-learn library, and another using a custom neural network built using the Keras library in Python. These models were developed using open-source libraries, including NumPy for numerical computation, Pandas for data manipulation, Seaborn for statistical data visualisation, matplotlib for plotting, and the machine learning frameworks SciKit Learn, Keras, and Tensorflow (backend). The scikit-learn library is a widely used machine learning library in Python, and the MLPClassifier algorithm from this library is a type of multi-layer perceptron classifier that has been shown to perform well on various classification tasks. The custom neural network, on the other hand, was designed to provide a deeper level of control over the architecture and training process, allowing for a more customised solution. The objective of our study is to identify potential fraudulent activities in the supply chain before shipments are processed, thus reducing the risk of financial loss for the organisation.
+- **Introduction to Neural Networks in Supply Chain Analytics**
+  - Neural networks have gained traction for enhancing operations and decision-making in organizations.
+  - Detection of fraud in supply chains is a critical application due to potential financial losses.
+  
+- **Study Overview**
+  - Two models developed:
+    1. MLPClassifier from scikit-learn.
+    2. Custom neural network using Keras.
+  - Open-source libraries used:
+    - NumPy for numerical computation.
+    - Pandas for data manipulation.
+    - Seaborn for statistical data visualization.
+    - Matplotlib for plotting.
+    - Machine learning frameworks: SciKit Learn, Keras, Tensorflow (backend).
+    
+- **MLPClassifier from scikit-learn**
+  - Widely used machine learning library in Python.
+  - MLPClassifier: Multi-layer perceptron classifier.
+  - Known for good performance on various classification tasks.
+  
+- **Custom Neural Network (Keras)**
+  - Designed for greater control over architecture and training process.
+  - Allows for a more customized solution tailored to specific needs.
+  
+- **Objective**
+  - Detect potential fraudulent activities in supply chain processes before shipments are processed.
+  - Aim to minimize financial risks associated with fraud through early detection.
